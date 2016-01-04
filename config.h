@@ -1,4 +1,5 @@
 /* see LICENSE for copyright and license */
+/* This is my personal config. Thank You Mr. Sulami:-)*/
 
 #ifndef CONFIG_H
 #define CONFIG_H
